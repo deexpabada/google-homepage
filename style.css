@@ -1,0 +1,61 @@
+img {
+  width:20em;
+  height: 7em;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right:0;
+  top: 10em;
+}
+
+#search{
+  width: 30em;
+  height: 2.5em;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 21em;
+}
+
+button {
+  background-color: #DCDCDC ;
+}
+#submit{
+  width: 14em;
+  height: 2.5em;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 15em;
+  top:24.5em;
+  font-family: monospace
+}
+
+#lucky{
+  width: 14em;
+  height: 2.5em;
+  position: absolute;
+  margin: auto;
+  left: 15em;;
+  right: 0;
+  top:24.5em;
+  font-family: monospace
+}
+
+.footer{
+    background-color: #DCDCDC;
+    width:100%;
+    position:absolute;
+    bottom:0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+  display: inline;
+  margin: 1em;
+  padding: 0.2em;
+  font-family: monospace;
+}
